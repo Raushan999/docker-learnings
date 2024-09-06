@@ -26,3 +26,11 @@ https://docs.docker.com/language/python/containerize/
 ## Deploying the files to docker hub.
 
 https://docs.docker.com/language/python/configure-ci-cd/#step-three-run-the-workflow
+
+## Git commands to update the existing code to repository from VS powershell.
+
+`git add .`
+`git commit -m "Description of the changes you made"`
+`git push origin main`
+
+
